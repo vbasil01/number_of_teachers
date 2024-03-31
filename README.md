@@ -6,8 +6,8 @@ The dataset used for this project contains the following columns:
 -Other relevant columns: Additional information such as school type, location, etc. (if available).
 
 Objectives:
--explore data 
--clean data:
+1.explore data 
+2.clean data:
     delete missing values
     checking if there duplicate 
 -data visualization  
