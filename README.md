@@ -10,7 +10,7 @@ Objectives:
 2.clean data:
     delete missing values
     checking if there duplicate 
--data visualization  
+3.data visualization  
 
 dataset [source](https://od.data.gov.sa/)
 
